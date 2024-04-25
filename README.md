@@ -1,0 +1,1 @@
+# Lojistik-Regresyon-ile-kalp-krizi-riski-tahmini
