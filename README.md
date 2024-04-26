@@ -5,5 +5,6 @@ Kaggle sitesinden aldığım (https://www.kaggle.com/datasets/dileep070/heart-di
 -Model ve tahmin
 -Model değerlendirme
 -10 katlı cross validation
+-Resampling yöntemleri
 
 uygulamalarını gerçekleştirerek öğrendiğim teorik bilgileri pratiğe dönüştürdüm.
